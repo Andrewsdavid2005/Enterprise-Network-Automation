@@ -1,4 +1,4 @@
-# Enterprise Network Automation Lab 🚀
+# Enterprise Network Automation Lab 
 
 A Python-based enterprise network automation project designed to automate
 Cisco network monitoring, health checks, configuration backups, OSPF
@@ -9,14 +9,14 @@ Cisco Packet Tracer with Python-based automation using Netmiko.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project simulates a real-world enterprise network consisting of:
 
-- 🏢 Head Office
-- 🏢 Branch Office
-- 🗄️ Data Center
-- 🌐 ISP / WAN Connectivity
+- Head Office
+- Branch Office
+- Data Center
+- ISP / WAN Connectivity
 
 The network contains Cisco routers, Layer 3 switches, access switches,
 VLANs, wireless clients, enterprise servers, and routing infrastructure.
@@ -26,7 +26,7 @@ through SSH.
 
 ---
 
-## 🖥️ Enterprise Network Topology
+## Enterprise Network Topology
 
 ![Enterprise Network Topology](screenshots/enterprise-topology.png)
 
@@ -43,7 +43,7 @@ The enterprise network is divided into three major sites:
 
 ---
 
-## 🌐 Network Design
+## Network Design
 
 ### Head Office
 
@@ -103,7 +103,7 @@ The ISP router provides WAN connectivity between:
 
 ---
 
-# 🔧 Networking Technologies
+# Networking Technologies
 
 The project uses the following networking technologies:
 
@@ -129,7 +129,7 @@ The project uses the following networking technologies:
 
 ---
 
-# 🤖 Network Automation
+# Network Automation
 
 The automation layer is developed using Python and Netmiko.
 
